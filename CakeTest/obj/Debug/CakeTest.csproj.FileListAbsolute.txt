@@ -1,0 +1,9 @@
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\CakeTest.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\CakeTest.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\nunit.framework.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\nunit.framework.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\obj\Debug\CakeTest.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\obj\Debug\CakeTest.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\obj\Debug\CakeTest.pdb

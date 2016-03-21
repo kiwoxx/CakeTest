@@ -1,0 +1,5 @@
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\Cake.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\Cake.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\obj\Debug\Cake.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\obj\Debug\Cake.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\obj\Debug\Cake.pdb
