@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\CodeCakeBuilder.exe.config
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\CodeCakeBuilder.exe
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\CodeCakeBuilder.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Cake.Common.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Cake.Core.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Code.Cake.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Cake.Common.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Cake.Common.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Cake.Core.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Cake.Core.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Code.Cake.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Code.Cake.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.exe
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.csprojResolveAssemblyReference.cache

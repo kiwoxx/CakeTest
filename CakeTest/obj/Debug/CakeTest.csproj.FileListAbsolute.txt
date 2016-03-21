@@ -7,3 +7,12 @@ C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\nun
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\obj\Debug\CakeTest.csprojResolveAssemblyReference.cache
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\obj\Debug\CakeTest.dll
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\obj\Debug\CakeTest.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.Common.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.Core.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Code.Cake.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.Common.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.Common.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.Core.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.Core.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Code.Cake.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Code.Cake.xml
