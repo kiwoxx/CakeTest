@@ -18,3 +18,4 @@ C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\SimpleG
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\SimpleGitVersion.Cake.xml
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\SimpleGitVersion.Core.pdb
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\SimpleGitVersion.Core.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\obj\Debug\Cake.csprojResolveAssemblyReference.cache

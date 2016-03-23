@@ -19,3 +19,4 @@ C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\De
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Cake.xml
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Core.pdb
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Core.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.csprojResolveAssemblyReference.cache
