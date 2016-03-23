@@ -16,3 +16,10 @@ C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cak
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Cake.Core.xml
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Code.Cake.pdb
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\Code.Cake.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\NativeBinaries\amd64\git2-e0902fb.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\NativeBinaries\x86\git2-e0902fb.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\SimpleGitVersion.Cake.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\SimpleGitVersion.Core.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\SimpleGitVersion.Cake.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\SimpleGitVersion.Core.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CakeTest\bin\Debug\SimpleGitVersion.Core.xml

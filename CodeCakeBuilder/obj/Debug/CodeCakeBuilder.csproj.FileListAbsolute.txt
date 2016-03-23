@@ -13,3 +13,10 @@ C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\De
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.exe
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.pdb
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\NativeBinaries\amd64\git2-e0902fb.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\NativeBinaries\x86\git2-e0902fb.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Cake.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Core.dll
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Cake.xml
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Core.pdb
+C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Core.xml
