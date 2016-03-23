@@ -12,7 +12,6 @@ C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\De
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\Code.Cake.xml
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.exe
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.pdb
-C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\obj\Debug\CodeCakeBuilder.csprojResolveAssemblyReference.cache
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\NativeBinaries\amd64\git2-e0902fb.dll
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\NativeBinaries\x86\git2-e0902fb.dll
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\CodeCakeBuilder\bin\Debug\SimpleGitVersion.Cake.dll

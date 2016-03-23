@@ -11,7 +11,6 @@ C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\Cake.Co
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\Cake.Core.xml
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\Code.Cake.pdb
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\Code.Cake.xml
-C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\obj\Debug\Cake.csprojResolveAssemblyReference.cache
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\NativeBinaries\amd64\git2-e0902fb.dll
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\NativeBinaries\x86\git2-e0902fb.dll
 C:\Users\lucas\Documents\S5\integration continue\CakeTest\Cake\bin\Debug\SimpleGitVersion.Cake.dll
